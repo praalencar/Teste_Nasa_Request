@@ -38,7 +38,7 @@ file output: “\results\Questao_02_total_error_404.csv”Files
 3 - Os 5 URLs que mais causaram erro 404.
 Resposta: Segue abaixo a lista dos 5 maiores hosts com erros 404 df3_merged.show() ±–±—+ | host|qtde| ±------±—+ |hoohoo.ncsa.uiuc.edu| 251| |jbiagioni.npt.nuw…| 131| |piweba3y.prodigy.com| 109| |piweba1y.prodigy.com| 92| |phaelon.ksc.nasa.gov| 64| ±----±—+
 
-# file output: “\results\Questao_03_top_5_hosts_error_404.csv”
+## file output: “\results\Questao_03_top_5_hosts_error_404.csv”
 
 4 - Quantidade de erros 404 por dia.
 Resposta: Quantidade de erros 404 por dia está disponível no arquivo .CSV na pasta Results, e uma amostra dos dados está listada abaixo.
